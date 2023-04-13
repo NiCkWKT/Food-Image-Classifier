@@ -1,0 +1,42 @@
+[ Valid | 001/100 ] loss = 2.20590, acc = 0.21089 -> best
+[ Valid | 002/100 ] loss = 2.16097, acc = 0.22579 -> best
+[ Valid | 003/100 ] loss = 2.12021, acc = 0.23426 -> best
+[ Valid | 004/100 ] loss = 2.08431, acc = 0.27898 -> best
+[ Valid | 005/100 ] loss = 2.09823, acc = 0.26024
+[ Valid | 006/100 ] loss = 2.06503, acc = 0.28389 -> best
+[ Valid | 007/100 ] loss = 2.14564, acc = 0.24714
+[ Valid | 008/100 ] loss = 2.06247, acc = 0.27463
+[ Valid | 009/100 ] loss = 2.04131, acc = 0.27528
+[ Valid | 010/100 ] loss = 2.02980, acc = 0.28158
+[ Valid | 011/100 ] loss = 2.04077, acc = 0.27297
+[ Valid | 012/100 ] loss = 2.02843, acc = 0.28630 -> best
+[ Valid | 013/100 ] loss = 2.02370, acc = 0.28057
+[ Valid | 014/100 ] loss = 2.11417, acc = 0.26740
+[ Valid | 015/100 ] loss = 2.07316, acc = 0.27319
+[ Valid | 016/100 ] loss = 2.01135, acc = 0.29562 -> best
+[ Valid | 017/100 ] loss = 2.07888, acc = 0.28766
+[ Valid | 018/100 ] loss = 2.11027, acc = 0.27948
+[ Valid | 019/100 ] loss = 2.02034, acc = 0.29170
+[ Valid | 020/100 ] loss = 2.14990, acc = 0.28765
+[ Valid | 021/100 ] loss = 2.11080, acc = 0.29012
+[ Valid | 022/100 ] loss = 2.09682, acc = 0.29656 -> best
+[ Valid | 023/100 ] loss = 2.08395, acc = 0.27319
+[ Valid | 024/100 ] loss = 2.15579, acc = 0.26964
+[ Valid | 025/100 ] loss = 2.12589, acc = 0.28896
+[ Valid | 026/100 ] loss = 2.23569, acc = 0.28165
+[ Valid | 027/100 ] loss = 2.22705, acc = 0.28722
+[ Valid | 028/100 ] loss = 2.19247, acc = 0.28556
+[ Valid | 029/100 ] loss = 2.17084, acc = 0.28692
+[ Valid | 030/100 ] loss = 2.27454, acc = 0.29403
+[ Valid | 031/100 ] loss = 2.21403, acc = 0.30597 -> best
+[ Valid | 032/100 ] loss = 2.27600, acc = 0.29128
+[ Valid | 033/100 ] loss = 2.41703, acc = 0.27688
+[ Valid | 034/100 ] loss = 2.46548, acc = 0.26574
+[ Valid | 035/100 ] loss = 2.40725, acc = 0.28599
+[ Valid | 036/100 ] loss = 2.50627, acc = 0.28123
+[ Valid | 037/100 ] loss = 2.47735, acc = 0.28136
+[ Valid | 038/100 ] loss = 2.50354, acc = 0.27260
+[ Valid | 039/100 ] loss = 2.65516, acc = 0.28317
+[ Valid | 040/100 ] loss = 2.59199, acc = 0.25907
+[ Valid | 041/100 ] loss = 3.03416, acc = 0.25697
+[ Valid | 042/100 ] loss = 2.69528, acc = 0.27037
