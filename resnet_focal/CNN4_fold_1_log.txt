@@ -1,0 +1,575 @@
+[ Valid | 001/300 ] loss = 2.38566, acc = 0.25691 -> best
+[ Valid | 002/300 ] loss = 2.60868, acc = 0.24127
+[ Valid | 003/300 ] loss = 2.11513, acc = 0.32803 -> best
+[ Valid | 004/300 ] loss = 2.39258, acc = 0.28470
+[ Valid | 005/300 ] loss = 1.91937, acc = 0.38478 -> best
+[ Valid | 006/300 ] loss = 1.83662, acc = 0.41065 -> best
+[ Valid | 007/300 ] loss = 1.94289, acc = 0.38662
+[ Valid | 008/300 ] loss = 1.89967, acc = 0.43116 -> best
+[ Valid | 009/300 ] loss = 1.72103, acc = 0.45005 -> best
+[ Valid | 010/300 ] loss = 1.52863, acc = 0.49182 -> best
+[ Valid | 011/300 ] loss = 1.34520, acc = 0.54451 -> best
+[ Valid | 012/300 ] loss = 1.41646, acc = 0.50843
+[ Valid | 013/300 ] loss = 1.37541, acc = 0.53076
+[ Valid | 014/300 ] loss = 1.27716, acc = 0.56410 -> best
+[ Valid | 015/300 ] loss = 1.26545, acc = 0.55412
+[ Valid | 016/300 ] loss = 1.14779, acc = 0.59865 -> best
+[ Valid | 017/300 ] loss = 1.17623, acc = 0.59180
+[ Valid | 018/300 ] loss = 1.08347, acc = 0.62092 -> best
+[ Valid | 019/300 ] loss = 1.08040, acc = 0.62092
+[ Valid | 020/300 ] loss = 1.06699, acc = 0.62896 -> best
+[ Valid | 021/300 ] loss = 1.93833, acc = 0.40827
+[ Valid | 022/300 ] loss = 1.63652, acc = 0.48553
+[ Valid | 023/300 ] loss = 1.97496, acc = 0.39864
+[ Valid | 024/300 ] loss = 1.64229, acc = 0.46961
+[ Valid | 025/300 ] loss = 1.61436, acc = 0.50214
+[ Valid | 026/300 ] loss = 1.99765, acc = 0.43735
+[ Valid | 027/300 ] loss = 1.30474, acc = 0.53612
+[ Valid | 028/300 ] loss = 1.26193, acc = 0.57578
+[ Valid | 029/300 ] loss = 1.19142, acc = 0.59593
+[ Valid | 030/300 ] loss = 1.29065, acc = 0.56104
+[ Valid | 031/300 ] loss = 1.05238, acc = 0.61810
+[ Valid | 032/300 ] loss = 1.01568, acc = 0.63209 -> best
+[ Valid | 033/300 ] loss = 1.09967, acc = 0.60951
+[ Valid | 034/300 ] loss = 0.93938, acc = 0.65288 -> best
+[ Valid | 035/300 ] loss = 0.96217, acc = 0.64861
+[ Valid | 036/300 ] loss = 0.89710, acc = 0.66390 -> best
+[ Valid | 037/300 ] loss = 0.86580, acc = 0.67418 -> best
+[ Valid | 038/300 ] loss = 0.86443, acc = 0.67745 -> best
+[ Valid | 039/300 ] loss = 0.85221, acc = 0.68383 -> best
+[ Valid | 040/300 ] loss = 0.84625, acc = 0.68121
+[ Valid | 041/300 ] loss = 1.45925, acc = 0.50395
+[ Valid | 042/300 ] loss = 1.29521, acc = 0.56527
+[ Valid | 043/300 ] loss = 1.28709, acc = 0.56405
+[ Valid | 044/300 ] loss = 1.19959, acc = 0.59239
+[ Valid | 045/300 ] loss = 1.37205, acc = 0.53497
+[ Valid | 046/300 ] loss = 1.09100, acc = 0.61075
+[ Valid | 047/300 ] loss = 1.02555, acc = 0.63808
+[ Valid | 048/300 ] loss = 1.00277, acc = 0.63721
+[ Valid | 049/300 ] loss = 1.01767, acc = 0.63355
+[ Valid | 050/300 ] loss = 0.97246, acc = 0.65400
+[ Valid | 051/300 ] loss = 1.17217, acc = 0.61151
+[ Valid | 052/300 ] loss = 0.89703, acc = 0.67440
+[ Valid | 053/300 ] loss = 0.92223, acc = 0.65944
+[ Valid | 054/300 ] loss = 0.83656, acc = 0.68439 -> best
+[ Valid | 055/300 ] loss = 0.80929, acc = 0.69650 -> best
+[ Valid | 056/300 ] loss = 0.77513, acc = 0.70782 -> best
+[ Valid | 057/300 ] loss = 0.76813, acc = 0.71028 -> best
+[ Valid | 058/300 ] loss = 0.75434, acc = 0.70848
+[ Valid | 059/300 ] loss = 0.74757, acc = 0.71389 -> best
+[ Valid | 060/300 ] loss = 0.75071, acc = 0.71210
+[ Valid | 061/300 ] loss = 2.13954, acc = 0.45039
+[ Valid | 062/300 ] loss = 1.17643, acc = 0.61341
+[ Valid | 063/300 ] loss = 0.94226, acc = 0.65826
+[ Valid | 064/300 ] loss = 1.06668, acc = 0.63112
+[ Valid | 065/300 ] loss = 1.07144, acc = 0.62131
+[ Valid | 066/300 ] loss = 0.96961, acc = 0.65978
+[ Valid | 067/300 ] loss = 1.21434, acc = 0.59835
+[ Valid | 068/300 ] loss = 1.02541, acc = 0.64560
+[ Valid | 069/300 ] loss = 1.10505, acc = 0.62320
+[ Valid | 070/300 ] loss = 0.83339, acc = 0.69157
+[ Valid | 071/300 ] loss = 0.93221, acc = 0.66877
+[ Valid | 072/300 ] loss = 0.80811, acc = 0.70394
+[ Valid | 073/300 ] loss = 0.81224, acc = 0.70849
+[ Valid | 074/300 ] loss = 0.75668, acc = 0.72288 -> best
+[ Valid | 075/300 ] loss = 0.75547, acc = 0.72711 -> best
+[ Valid | 076/300 ] loss = 0.76015, acc = 0.71967
+[ Valid | 077/300 ] loss = 0.70314, acc = 0.73850 -> best
+[ Valid | 078/300 ] loss = 0.70965, acc = 0.73594
+[ Valid | 079/300 ] loss = 0.70044, acc = 0.73617
+[ Valid | 080/300 ] loss = 0.69541, acc = 0.73529
+[ Valid | 081/300 ] loss = 0.94064, acc = 0.67183
+[ Valid | 082/300 ] loss = 1.33308, acc = 0.58140
+[ Valid | 083/300 ] loss = 1.03346, acc = 0.63627
+[ Valid | 084/300 ] loss = 1.29257, acc = 0.57435
+[ Valid | 085/300 ] loss = 1.45899, acc = 0.54242
+[ Valid | 086/300 ] loss = 1.30153, acc = 0.57675
+[ Valid | 087/300 ] loss = 1.03833, acc = 0.65074
+[ Valid | 088/300 ] loss = 0.84907, acc = 0.69434
+[ Valid | 089/300 ] loss = 0.88719, acc = 0.68778
+[ Valid | 090/300 ] loss = 0.88086, acc = 0.68347
+[ Valid | 091/300 ] loss = 0.82890, acc = 0.70517
+[ Valid | 092/300 ] loss = 0.76273, acc = 0.71840
+[ Valid | 093/300 ] loss = 0.74823, acc = 0.73313
+[ Valid | 094/300 ] loss = 0.71142, acc = 0.74281 -> best
+[ Valid | 095/300 ] loss = 0.75233, acc = 0.72375
+[ Valid | 096/300 ] loss = 0.69035, acc = 0.74732 -> best
+[ Valid | 097/300 ] loss = 0.67462, acc = 0.74729
+[ Valid | 098/300 ] loss = 0.67748, acc = 0.75355 -> best
+[ Valid | 099/300 ] loss = 0.67109, acc = 0.75449 -> best
+[ Valid | 100/300 ] loss = 0.67024, acc = 0.74941
+[ Valid | 101/300 ] loss = 1.14401, acc = 0.62570
+[ Valid | 102/300 ] loss = 1.18912, acc = 0.62006
+[ Valid | 103/300 ] loss = 0.97273, acc = 0.66278
+[ Valid | 104/300 ] loss = 1.37356, acc = 0.57464
+[ Valid | 105/300 ] loss = 0.83900, acc = 0.69342
+[ Valid | 106/300 ] loss = 1.04529, acc = 0.65672
+[ Valid | 107/300 ] loss = 0.75807, acc = 0.72441
+[ Valid | 108/300 ] loss = 0.89202, acc = 0.69525
+[ Valid | 109/300 ] loss = 0.86196, acc = 0.70131
+[ Valid | 110/300 ] loss = 0.83731, acc = 0.71332
+[ Valid | 111/300 ] loss = 0.77049, acc = 0.73641
+[ Valid | 112/300 ] loss = 0.74066, acc = 0.72952
+[ Valid | 113/300 ] loss = 0.81392, acc = 0.71536
+[ Valid | 114/300 ] loss = 0.75453, acc = 0.73858
+[ Valid | 115/300 ] loss = 0.68822, acc = 0.75716 -> best
+[ Valid | 116/300 ] loss = 0.68856, acc = 0.75537
+[ Valid | 117/300 ] loss = 0.67705, acc = 0.76079 -> best
+[ Valid | 118/300 ] loss = 0.69376, acc = 0.75273
+[ Valid | 119/300 ] loss = 0.67732, acc = 0.75387
+[ Valid | 120/300 ] loss = 0.67425, acc = 0.75812
+[ Valid | 121/300 ] loss = 0.95951, acc = 0.68389
+[ Valid | 122/300 ] loss = 1.33608, acc = 0.61857
+[ Valid | 123/300 ] loss = 0.98351, acc = 0.66670
+[ Valid | 124/300 ] loss = 0.92354, acc = 0.69863
+[ Valid | 125/300 ] loss = 0.85293, acc = 0.71000
+[ Valid | 126/300 ] loss = 0.81441, acc = 0.72049
+[ Valid | 127/300 ] loss = 0.80344, acc = 0.72653
+[ Valid | 128/300 ] loss = 0.99165, acc = 0.68024
+[ Valid | 129/300 ] loss = 1.04122, acc = 0.66639
+[ Valid | 130/300 ] loss = 0.77814, acc = 0.73619
+[ Valid | 131/300 ] loss = 0.82741, acc = 0.73109
+[ Valid | 132/300 ] loss = 0.74214, acc = 0.74400
+[ Valid | 133/300 ] loss = 0.76490, acc = 0.74107
+[ Valid | 134/300 ] loss = 0.68980, acc = 0.75742
+[ Valid | 135/300 ] loss = 0.70084, acc = 0.75660
+[ Valid | 136/300 ] loss = 0.69477, acc = 0.76193 -> best
+[ Valid | 137/300 ] loss = 0.69869, acc = 0.75901
+[ Valid | 138/300 ] loss = 0.68244, acc = 0.76588 -> best
+[ Valid | 139/300 ] loss = 0.67742, acc = 0.76655 -> best
+[ Valid | 140/300 ] loss = 0.67615, acc = 0.76508
+[ Valid | 141/300 ] loss = 1.14577, acc = 0.65579
+[ Valid | 142/300 ] loss = 2.69236, acc = 0.47322
+[ Valid | 143/300 ] loss = 1.28797, acc = 0.63053
+[ Valid | 144/300 ] loss = 1.64238, acc = 0.55862
+[ Valid | 145/300 ] loss = 1.01908, acc = 0.67840
+[ Valid | 146/300 ] loss = 0.94857, acc = 0.69718
+[ Valid | 147/300 ] loss = 0.95811, acc = 0.69976
+[ Valid | 148/300 ] loss = 0.82720, acc = 0.72169
+[ Valid | 149/300 ] loss = 0.87494, acc = 0.71026
+[ Valid | 150/300 ] loss = 0.79312, acc = 0.73740
+[ Valid | 151/300 ] loss = 0.80699, acc = 0.73613
+[ Valid | 152/300 ] loss = 0.78084, acc = 0.74548
+[ Valid | 153/300 ] loss = 0.72921, acc = 0.75603
+[ Valid | 154/300 ] loss = 0.72267, acc = 0.76018
+[ Valid | 155/300 ] loss = 0.72089, acc = 0.75504
+[ Valid | 156/300 ] loss = 0.70629, acc = 0.76712 -> best
+[ Valid | 157/300 ] loss = 0.69831, acc = 0.76835 -> best
+[ Valid | 158/300 ] loss = 0.70307, acc = 0.76956 -> best
+[ Valid | 159/300 ] loss = 0.69617, acc = 0.76776
+[ Valid | 160/300 ] loss = 0.69911, acc = 0.76894
+[ Valid | 161/300 ] loss = 0.93459, acc = 0.71485
+[ Valid | 162/300 ] loss = 1.12810, acc = 0.65980
+[ Valid | 163/300 ] loss = 1.04291, acc = 0.67688
+[ Valid | 164/300 ] loss = 0.84124, acc = 0.72416
+[ Valid | 165/300 ] loss = 0.96498, acc = 0.69412
+[ Valid | 166/300 ] loss = 0.87528, acc = 0.71450
+[ Valid | 167/300 ] loss = 0.92000, acc = 0.69475
+[ Valid | 168/300 ] loss = 0.80076, acc = 0.73891
+[ Valid | 169/300 ] loss = 0.82201, acc = 0.73460
+[ Valid | 170/300 ] loss = 0.76518, acc = 0.74996
+[ Valid | 171/300 ] loss = 0.79608, acc = 0.74638
+[ Valid | 172/300 ] loss = 0.72685, acc = 0.76024
+[ Valid | 173/300 ] loss = 0.72612, acc = 0.77095 -> best
+[ Valid | 174/300 ] loss = 0.74892, acc = 0.76184
+[ Valid | 175/300 ] loss = 0.73357, acc = 0.76843
+[ Valid | 176/300 ] loss = 0.70630, acc = 0.76626
+[ Valid | 177/300 ] loss = 0.71522, acc = 0.77260 -> best
+[ Valid | 178/300 ] loss = 0.70662, acc = 0.76835
+[ Valid | 179/300 ] loss = 0.70355, acc = 0.77109
+[ Valid | 180/300 ] loss = 0.71246, acc = 0.76896
+[ Valid | 181/300 ] loss = 1.21820, acc = 0.68051
+[ Valid | 182/300 ] loss = 1.19231, acc = 0.65311
+[ Valid | 183/300 ] loss = 0.97471, acc = 0.69669
+[ Valid | 184/300 ] loss = 0.86147, acc = 0.72662
+[ Valid | 185/300 ] loss = 0.86177, acc = 0.71451
+[ Valid | 186/300 ] loss = 0.91380, acc = 0.71807
+[ Valid | 187/300 ] loss = 1.08497, acc = 0.68527
+[ Valid | 188/300 ] loss = 0.78706, acc = 0.74036
+[ Valid | 189/300 ] loss = 0.82694, acc = 0.73944
+[ Valid | 190/300 ] loss = 0.78505, acc = 0.75782
+[ Valid | 191/300 ] loss = 0.76457, acc = 0.75999
+[ Valid | 192/300 ] loss = 0.79571, acc = 0.75272
+[ Valid | 193/300 ] loss = 0.72743, acc = 0.76712
+[ Valid | 194/300 ] loss = 0.74865, acc = 0.76977
+[ Valid | 195/300 ] loss = 0.74082, acc = 0.76567
+[ Valid | 196/300 ] loss = 0.71424, acc = 0.77222
+[ Valid | 197/300 ] loss = 0.70746, acc = 0.77320 -> best
+[ Valid | 198/300 ] loss = 0.71520, acc = 0.77592 -> best
+[ Valid | 199/300 ] loss = 0.71209, acc = 0.77702 -> best
+[ Valid | 200/300 ] loss = 0.71114, acc = 0.77550
+[ Valid | 201/300 ] loss = 1.29307, acc = 0.66671
+[ Valid | 202/300 ] loss = 0.91981, acc = 0.71304
+[ Valid | 203/300 ] loss = 0.96175, acc = 0.70600
+[ Valid | 204/300 ] loss = 0.92101, acc = 0.70428
+[ Valid | 205/300 ] loss = 0.96589, acc = 0.70276
+[ Valid | 206/300 ] loss = 0.93184, acc = 0.72327
+[ Valid | 207/300 ] loss = 0.92425, acc = 0.72619
+[ Valid | 208/300 ] loss = 1.41683, acc = 0.61972
+[ Valid | 209/300 ] loss = 0.82814, acc = 0.73986
+[ Valid | 210/300 ] loss = 0.81056, acc = 0.75173
+[ Valid | 211/300 ] loss = 0.80766, acc = 0.75988
+[ Valid | 212/300 ] loss = 0.81244, acc = 0.75484
+[ Valid | 213/300 ] loss = 0.78024, acc = 0.77018
+[ Valid | 214/300 ] loss = 0.76278, acc = 0.77764 -> best
+[ Valid | 215/300 ] loss = 0.74909, acc = 0.77255
+[ Valid | 216/300 ] loss = 0.77408, acc = 0.77709
+[ Valid | 217/300 ] loss = 0.74401, acc = 0.78065 -> best
+[ Valid | 218/300 ] loss = 0.74623, acc = 0.77799
+[ Valid | 219/300 ] loss = 0.74889, acc = 0.77923
+[ Valid | 220/300 ] loss = 0.74595, acc = 0.78073 -> best
+[ Valid | 221/300 ] loss = 1.14685, acc = 0.69865
+[ Valid | 222/300 ] loss = 0.87705, acc = 0.73011
+[ Valid | 223/300 ] loss = 1.23647, acc = 0.66100
+[ Valid | 224/300 ] loss = 0.88740, acc = 0.72953
+[ Valid | 225/300 ] loss = 1.92380, acc = 0.57239
+[ Valid | 226/300 ] loss = 0.87610, acc = 0.72845
+[ Valid | 227/300 ] loss = 0.84162, acc = 0.75281
+[ Valid | 228/300 ] loss = 0.79030, acc = 0.75149
+[ Valid | 229/300 ] loss = 0.82810, acc = 0.74820
+[ Valid | 230/300 ] loss = 0.79317, acc = 0.76390
+[ Valid | 231/300 ] loss = 0.80298, acc = 0.76444
+[ Valid | 232/300 ] loss = 0.78285, acc = 0.77195
+[ Valid | 233/300 ] loss = 0.77248, acc = 0.77134
+[ Valid | 234/300 ] loss = 0.77650, acc = 0.77771
+[ Valid | 235/300 ] loss = 0.76825, acc = 0.77734
+[ Valid | 236/300 ] loss = 0.76160, acc = 0.78185 -> best
+[ Valid | 237/300 ] loss = 0.74503, acc = 0.78135
+[ Valid | 238/300 ] loss = 0.75226, acc = 0.78828 -> best
+[ Valid | 239/300 ] loss = 0.74583, acc = 0.78429
+[ Valid | 240/300 ] loss = 0.74086, acc = 0.78667
+[ Valid | 241/300 ] loss = 1.13031, acc = 0.70761
+[ Valid | 242/300 ] loss = 1.07343, acc = 0.69710
+[ Valid | 243/300 ] loss = 0.98970, acc = 0.71683
+[ Valid | 244/300 ] loss = 0.95346, acc = 0.71688
+[ Valid | 245/300 ] loss = 0.90125, acc = 0.73764
+[ Valid | 246/300 ] loss = 0.88157, acc = 0.74127
+[ Valid | 247/300 ] loss = 0.95177, acc = 0.72930
+[ Valid | 248/300 ] loss = 0.81172, acc = 0.75815
+[ Valid | 249/300 ] loss = 0.87503, acc = 0.75420
+[ Valid | 250/300 ] loss = 0.86463, acc = 0.76270
+[ Valid | 251/300 ] loss = 0.86360, acc = 0.75697
+[ Valid | 252/300 ] loss = 0.80916, acc = 0.77319
+[ Valid | 253/300 ] loss = 0.76720, acc = 0.78154
+[ Valid | 254/300 ] loss = 0.77483, acc = 0.79332 -> best
+[ Valid | 255/300 ] loss = 0.80702, acc = 0.78465
+[ Valid | 256/300 ] loss = 0.78137, acc = 0.78521
+[ Valid | 257/300 ] loss = 0.78680, acc = 0.78614
+[ Valid | 258/300 ] loss = 0.77275, acc = 0.78756
+[ Valid | 259/300 ] loss = 0.77694, acc = 0.79252
+[ Valid | 260/300 ] loss = 0.76430, acc = 0.79181
+[ Valid | 261/300 ] loss = 1.33115, acc = 0.68402
+[ Valid | 262/300 ] loss = 1.01733, acc = 0.71237
+[ Valid | 263/300 ] loss = 1.27200, acc = 0.67157
+[ Valid | 264/300 ] loss = 1.59223, acc = 0.62212
+[ Valid | 265/300 ] loss = 0.93275, acc = 0.74160
+[ Valid | 266/300 ] loss = 0.90818, acc = 0.74005
+[ Valid | 267/300 ] loss = 0.96850, acc = 0.74306
+[ Valid | 268/300 ] loss = 1.02980, acc = 0.72379
+[ Valid | 269/300 ] loss = 0.91480, acc = 0.74553
+[ Valid | 270/300 ] loss = 0.96151, acc = 0.74876
+[ Valid | 271/300 ] loss = 0.86061, acc = 0.76628
+[ Valid | 272/300 ] loss = 0.93082, acc = 0.76524
+[ Valid | 273/300 ] loss = 0.82627, acc = 0.77078
+[ Valid | 274/300 ] loss = 0.80858, acc = 0.78097
+[ Valid | 275/300 ] loss = 0.81986, acc = 0.77582
+[ Valid | 001/300 ] loss = 2.38566, acc = 0.25691 -> best
+[ Valid | 002/300 ] loss = 2.60868, acc = 0.24127
+[ Valid | 003/300 ] loss = 2.11513, acc = 0.32803 -> best
+[ Valid | 004/300 ] loss = 2.39258, acc = 0.28470
+[ Valid | 005/300 ] loss = 1.91937, acc = 0.38478 -> best
+[ Valid | 006/300 ] loss = 1.83662, acc = 0.41065 -> best
+[ Valid | 007/300 ] loss = 1.94289, acc = 0.38662
+[ Valid | 008/300 ] loss = 1.89967, acc = 0.43116 -> best
+[ Valid | 009/300 ] loss = 1.72103, acc = 0.45005 -> best
+[ Valid | 010/300 ] loss = 1.52863, acc = 0.49182 -> best
+[ Valid | 011/300 ] loss = 1.34520, acc = 0.54451 -> best
+[ Valid | 012/300 ] loss = 1.41646, acc = 0.50843
+[ Valid | 013/300 ] loss = 1.37541, acc = 0.53076
+[ Valid | 014/300 ] loss = 1.27716, acc = 0.56410 -> best
+[ Valid | 015/300 ] loss = 1.26545, acc = 0.55412
+[ Valid | 016/300 ] loss = 1.14779, acc = 0.59865 -> best
+[ Valid | 017/300 ] loss = 1.17623, acc = 0.59180
+[ Valid | 018/300 ] loss = 1.08347, acc = 0.62092 -> best
+[ Valid | 019/300 ] loss = 1.08040, acc = 0.62092
+[ Valid | 020/300 ] loss = 1.06699, acc = 0.62896 -> best
+[ Valid | 021/300 ] loss = 1.93833, acc = 0.40827
+[ Valid | 022/300 ] loss = 1.63652, acc = 0.48553
+[ Valid | 023/300 ] loss = 1.97496, acc = 0.39864
+[ Valid | 024/300 ] loss = 1.64229, acc = 0.46961
+[ Valid | 025/300 ] loss = 1.61436, acc = 0.50214
+[ Valid | 001/300 ] loss = 2.38566, acc = 0.25691 -> best
+[ Valid | 002/300 ] loss = 2.60868, acc = 0.24127
+[ Valid | 003/300 ] loss = 2.11513, acc = 0.32803 -> best
+[ Valid | 004/300 ] loss = 2.39258, acc = 0.28470
+[ Valid | 005/300 ] loss = 1.91937, acc = 0.38478 -> best
+[ Valid | 006/300 ] loss = 1.83662, acc = 0.41065 -> best
+[ Valid | 007/300 ] loss = 1.94289, acc = 0.38662
+[ Valid | 008/300 ] loss = 1.89967, acc = 0.43116 -> best
+[ Valid | 009/300 ] loss = 1.72103, acc = 0.45005 -> best
+[ Valid | 010/300 ] loss = 1.52863, acc = 0.49182 -> best
+[ Valid | 011/300 ] loss = 1.34520, acc = 0.54451 -> best
+[ Valid | 012/300 ] loss = 1.41646, acc = 0.50843
+[ Valid | 013/300 ] loss = 1.37541, acc = 0.53076
+[ Valid | 014/300 ] loss = 1.27716, acc = 0.56410 -> best
+[ Valid | 015/300 ] loss = 1.26545, acc = 0.55412
+[ Valid | 016/300 ] loss = 1.14779, acc = 0.59865 -> best
+[ Valid | 017/300 ] loss = 1.17623, acc = 0.59180
+[ Valid | 018/300 ] loss = 1.08347, acc = 0.62092 -> best
+[ Valid | 019/300 ] loss = 1.08040, acc = 0.62092
+[ Valid | 020/300 ] loss = 1.06699, acc = 0.62896 -> best
+[ Valid | 021/300 ] loss = 1.93833, acc = 0.40827
+[ Valid | 022/300 ] loss = 1.63652, acc = 0.48553
+[ Valid | 023/300 ] loss = 1.97496, acc = 0.39864
+[ Valid | 024/300 ] loss = 1.64229, acc = 0.46961
+[ Valid | 025/300 ] loss = 1.61436, acc = 0.50214
+[ Valid | 026/300 ] loss = 1.99765, acc = 0.43735
+[ Valid | 027/300 ] loss = 1.30474, acc = 0.53612
+[ Valid | 028/300 ] loss = 1.26193, acc = 0.57578
+[ Valid | 029/300 ] loss = 1.19142, acc = 0.59593
+[ Valid | 030/300 ] loss = 1.29065, acc = 0.56104
+[ Valid | 031/300 ] loss = 1.05238, acc = 0.61810
+[ Valid | 032/300 ] loss = 1.01568, acc = 0.63209 -> best
+[ Valid | 033/300 ] loss = 1.09967, acc = 0.60951
+[ Valid | 034/300 ] loss = 0.93938, acc = 0.65288 -> best
+[ Valid | 035/300 ] loss = 0.96217, acc = 0.64861
+[ Valid | 036/300 ] loss = 0.89710, acc = 0.66390 -> best
+[ Valid | 037/300 ] loss = 0.86580, acc = 0.67418 -> best
+[ Valid | 038/300 ] loss = 0.86443, acc = 0.67745 -> best
+[ Valid | 039/300 ] loss = 0.85221, acc = 0.68383 -> best
+[ Valid | 040/300 ] loss = 0.84625, acc = 0.68121
+[ Valid | 041/300 ] loss = 1.45925, acc = 0.50395
+[ Valid | 042/300 ] loss = 1.29521, acc = 0.56527
+[ Valid | 043/300 ] loss = 1.28709, acc = 0.56405
+[ Valid | 044/300 ] loss = 1.19959, acc = 0.59239
+[ Valid | 045/300 ] loss = 1.37205, acc = 0.53497
+[ Valid | 046/300 ] loss = 1.09100, acc = 0.61075
+[ Valid | 047/300 ] loss = 1.02555, acc = 0.63808
+[ Valid | 048/300 ] loss = 1.00277, acc = 0.63721
+[ Valid | 049/300 ] loss = 1.01767, acc = 0.63355
+[ Valid | 050/300 ] loss = 0.97246, acc = 0.65400
+[ Valid | 051/300 ] loss = 1.17217, acc = 0.61151
+[ Valid | 052/300 ] loss = 0.89703, acc = 0.67440
+[ Valid | 053/300 ] loss = 0.92223, acc = 0.65944
+[ Valid | 054/300 ] loss = 0.83656, acc = 0.68439 -> best
+[ Valid | 055/300 ] loss = 0.80929, acc = 0.69650 -> best
+[ Valid | 056/300 ] loss = 0.77513, acc = 0.70782 -> best
+[ Valid | 057/300 ] loss = 0.76813, acc = 0.71028 -> best
+[ Valid | 058/300 ] loss = 0.75434, acc = 0.70848
+[ Valid | 059/300 ] loss = 0.74757, acc = 0.71389 -> best
+[ Valid | 060/300 ] loss = 0.75071, acc = 0.71210
+[ Valid | 061/300 ] loss = 2.13954, acc = 0.45039
+[ Valid | 062/300 ] loss = 1.17643, acc = 0.61341
+[ Valid | 063/300 ] loss = 0.94226, acc = 0.65826
+[ Valid | 064/300 ] loss = 1.06668, acc = 0.63112
+[ Valid | 065/300 ] loss = 1.07144, acc = 0.62131
+[ Valid | 066/300 ] loss = 0.96961, acc = 0.65978
+[ Valid | 067/300 ] loss = 1.21434, acc = 0.59835
+[ Valid | 068/300 ] loss = 1.02541, acc = 0.64560
+[ Valid | 069/300 ] loss = 1.10505, acc = 0.62320
+[ Valid | 070/300 ] loss = 0.83339, acc = 0.69157
+[ Valid | 071/300 ] loss = 0.93221, acc = 0.66877
+[ Valid | 072/300 ] loss = 0.80811, acc = 0.70394
+[ Valid | 073/300 ] loss = 0.81224, acc = 0.70849
+[ Valid | 074/300 ] loss = 0.75668, acc = 0.72288 -> best
+[ Valid | 075/300 ] loss = 0.75547, acc = 0.72711 -> best
+[ Valid | 076/300 ] loss = 0.76015, acc = 0.71967
+[ Valid | 077/300 ] loss = 0.70314, acc = 0.73850 -> best
+[ Valid | 078/300 ] loss = 0.70965, acc = 0.73594
+[ Valid | 079/300 ] loss = 0.70044, acc = 0.73617
+[ Valid | 080/300 ] loss = 0.69541, acc = 0.73529
+[ Valid | 081/300 ] loss = 0.94064, acc = 0.67183
+[ Valid | 082/300 ] loss = 1.33308, acc = 0.58140
+[ Valid | 083/300 ] loss = 1.03346, acc = 0.63627
+[ Valid | 084/300 ] loss = 1.29257, acc = 0.57435
+[ Valid | 085/300 ] loss = 1.45899, acc = 0.54242
+[ Valid | 086/300 ] loss = 1.30153, acc = 0.57675
+[ Valid | 087/300 ] loss = 1.03833, acc = 0.65074
+[ Valid | 088/300 ] loss = 0.84907, acc = 0.69434
+[ Valid | 089/300 ] loss = 0.88719, acc = 0.68778
+[ Valid | 090/300 ] loss = 0.88086, acc = 0.68347
+[ Valid | 091/300 ] loss = 0.82890, acc = 0.70517
+[ Valid | 092/300 ] loss = 0.76273, acc = 0.71840
+[ Valid | 093/300 ] loss = 0.74823, acc = 0.73313
+[ Valid | 094/300 ] loss = 0.71142, acc = 0.74281 -> best
+[ Valid | 095/300 ] loss = 0.75233, acc = 0.72375
+[ Valid | 096/300 ] loss = 0.69035, acc = 0.74732 -> best
+[ Valid | 097/300 ] loss = 0.67462, acc = 0.74729
+[ Valid | 098/300 ] loss = 0.67748, acc = 0.75355 -> best
+[ Valid | 099/300 ] loss = 0.67109, acc = 0.75449 -> best
+[ Valid | 100/300 ] loss = 0.67024, acc = 0.74941
+[ Valid | 101/300 ] loss = 1.14401, acc = 0.62570
+[ Valid | 102/300 ] loss = 1.18912, acc = 0.62006
+[ Valid | 103/300 ] loss = 0.97273, acc = 0.66278
+[ Valid | 104/300 ] loss = 1.37356, acc = 0.57464
+[ Valid | 105/300 ] loss = 0.83900, acc = 0.69342
+[ Valid | 106/300 ] loss = 1.04529, acc = 0.65672
+[ Valid | 107/300 ] loss = 0.75807, acc = 0.72441
+[ Valid | 108/300 ] loss = 0.89202, acc = 0.69525
+[ Valid | 109/300 ] loss = 0.86196, acc = 0.70131
+[ Valid | 110/300 ] loss = 0.83731, acc = 0.71332
+[ Valid | 111/300 ] loss = 0.77049, acc = 0.73641
+[ Valid | 112/300 ] loss = 0.74066, acc = 0.72952
+[ Valid | 113/300 ] loss = 0.81392, acc = 0.71536
+[ Valid | 114/300 ] loss = 0.75453, acc = 0.73858
+[ Valid | 115/300 ] loss = 0.68822, acc = 0.75716 -> best
+[ Valid | 116/300 ] loss = 0.68856, acc = 0.75537
+[ Valid | 117/300 ] loss = 0.67705, acc = 0.76079 -> best
+[ Valid | 118/300 ] loss = 0.69376, acc = 0.75273
+[ Valid | 119/300 ] loss = 0.67732, acc = 0.75387
+[ Valid | 120/300 ] loss = 0.67425, acc = 0.75812
+[ Valid | 121/300 ] loss = 0.95951, acc = 0.68389
+[ Valid | 122/300 ] loss = 1.33608, acc = 0.61857
+[ Valid | 123/300 ] loss = 0.98351, acc = 0.66670
+[ Valid | 124/300 ] loss = 0.92354, acc = 0.69863
+[ Valid | 125/300 ] loss = 0.85293, acc = 0.71000
+[ Valid | 126/300 ] loss = 0.81441, acc = 0.72049
+[ Valid | 127/300 ] loss = 0.80344, acc = 0.72653
+[ Valid | 128/300 ] loss = 0.99165, acc = 0.68024
+[ Valid | 129/300 ] loss = 1.04122, acc = 0.66639
+[ Valid | 130/300 ] loss = 0.77814, acc = 0.73619
+[ Valid | 131/300 ] loss = 0.82741, acc = 0.73109
+[ Valid | 132/300 ] loss = 0.74214, acc = 0.74400
+[ Valid | 133/300 ] loss = 0.76490, acc = 0.74107
+[ Valid | 134/300 ] loss = 0.68980, acc = 0.75742
+[ Valid | 135/300 ] loss = 0.70084, acc = 0.75660
+[ Valid | 136/300 ] loss = 0.69477, acc = 0.76193 -> best
+[ Valid | 137/300 ] loss = 0.69869, acc = 0.75901
+[ Valid | 138/300 ] loss = 0.68244, acc = 0.76588 -> best
+[ Valid | 139/300 ] loss = 0.67742, acc = 0.76655 -> best
+[ Valid | 140/300 ] loss = 0.67615, acc = 0.76508
+[ Valid | 141/300 ] loss = 1.14577, acc = 0.65579
+[ Valid | 142/300 ] loss = 2.69236, acc = 0.47322
+[ Valid | 143/300 ] loss = 1.28797, acc = 0.63053
+[ Valid | 144/300 ] loss = 1.64238, acc = 0.55862
+[ Valid | 145/300 ] loss = 1.01908, acc = 0.67840
+[ Valid | 146/300 ] loss = 0.94857, acc = 0.69718
+[ Valid | 147/300 ] loss = 0.95811, acc = 0.69976
+[ Valid | 148/300 ] loss = 0.82720, acc = 0.72169
+[ Valid | 149/300 ] loss = 0.87494, acc = 0.71026
+[ Valid | 150/300 ] loss = 0.79312, acc = 0.73740
+[ Valid | 151/300 ] loss = 0.80699, acc = 0.73613
+[ Valid | 152/300 ] loss = 0.78084, acc = 0.74548
+[ Valid | 153/300 ] loss = 0.72921, acc = 0.75603
+[ Valid | 154/300 ] loss = 0.72267, acc = 0.76018
+[ Valid | 155/300 ] loss = 0.72089, acc = 0.75504
+[ Valid | 156/300 ] loss = 0.70629, acc = 0.76712 -> best
+[ Valid | 157/300 ] loss = 0.69831, acc = 0.76835 -> best
+[ Valid | 158/300 ] loss = 0.70307, acc = 0.76956 -> best
+[ Valid | 159/300 ] loss = 0.69617, acc = 0.76776
+[ Valid | 160/300 ] loss = 0.69911, acc = 0.76894
+[ Valid | 161/300 ] loss = 0.93459, acc = 0.71485
+[ Valid | 162/300 ] loss = 1.12810, acc = 0.65980
+[ Valid | 163/300 ] loss = 1.04291, acc = 0.67688
+[ Valid | 164/300 ] loss = 0.84124, acc = 0.72416
+[ Valid | 165/300 ] loss = 0.96498, acc = 0.69412
+[ Valid | 166/300 ] loss = 0.87528, acc = 0.71450
+[ Valid | 167/300 ] loss = 0.92000, acc = 0.69475
+[ Valid | 168/300 ] loss = 0.80076, acc = 0.73891
+[ Valid | 169/300 ] loss = 0.82201, acc = 0.73460
+[ Valid | 170/300 ] loss = 0.76518, acc = 0.74996
+[ Valid | 171/300 ] loss = 0.79608, acc = 0.74638
+[ Valid | 172/300 ] loss = 0.72685, acc = 0.76024
+[ Valid | 173/300 ] loss = 0.72612, acc = 0.77095 -> best
+[ Valid | 174/300 ] loss = 0.74892, acc = 0.76184
+[ Valid | 175/300 ] loss = 0.73357, acc = 0.76843
+[ Valid | 176/300 ] loss = 0.70630, acc = 0.76626
+[ Valid | 177/300 ] loss = 0.71522, acc = 0.77260 -> best
+[ Valid | 178/300 ] loss = 0.70662, acc = 0.76835
+[ Valid | 179/300 ] loss = 0.70355, acc = 0.77109
+[ Valid | 180/300 ] loss = 0.71246, acc = 0.76896
+[ Valid | 181/300 ] loss = 1.21820, acc = 0.68051
+[ Valid | 182/300 ] loss = 1.19231, acc = 0.65311
+[ Valid | 183/300 ] loss = 0.97471, acc = 0.69669
+[ Valid | 184/300 ] loss = 0.86147, acc = 0.72662
+[ Valid | 185/300 ] loss = 0.86177, acc = 0.71451
+[ Valid | 186/300 ] loss = 0.91380, acc = 0.71807
+[ Valid | 187/300 ] loss = 1.08497, acc = 0.68527
+[ Valid | 188/300 ] loss = 0.78706, acc = 0.74036
+[ Valid | 189/300 ] loss = 0.82694, acc = 0.73944
+[ Valid | 190/300 ] loss = 0.78505, acc = 0.75782
+[ Valid | 191/300 ] loss = 0.76457, acc = 0.75999
+[ Valid | 192/300 ] loss = 0.79571, acc = 0.75272
+[ Valid | 193/300 ] loss = 0.72743, acc = 0.76712
+[ Valid | 194/300 ] loss = 0.74865, acc = 0.76977
+[ Valid | 195/300 ] loss = 0.74082, acc = 0.76567
+[ Valid | 196/300 ] loss = 0.71424, acc = 0.77222
+[ Valid | 197/300 ] loss = 0.70746, acc = 0.77320 -> best
+[ Valid | 198/300 ] loss = 0.71520, acc = 0.77592 -> best
+[ Valid | 199/300 ] loss = 0.71209, acc = 0.77702 -> best
+[ Valid | 200/300 ] loss = 0.71114, acc = 0.77550
+[ Valid | 201/300 ] loss = 1.29307, acc = 0.66671
+[ Valid | 202/300 ] loss = 0.91981, acc = 0.71304
+[ Valid | 203/300 ] loss = 0.96175, acc = 0.70600
+[ Valid | 204/300 ] loss = 0.92101, acc = 0.70428
+[ Valid | 205/300 ] loss = 0.96589, acc = 0.70276
+[ Valid | 206/300 ] loss = 0.93184, acc = 0.72327
+[ Valid | 207/300 ] loss = 0.92425, acc = 0.72619
+[ Valid | 208/300 ] loss = 1.41683, acc = 0.61972
+[ Valid | 209/300 ] loss = 0.82814, acc = 0.73986
+[ Valid | 210/300 ] loss = 0.81056, acc = 0.75173
+[ Valid | 211/300 ] loss = 0.80766, acc = 0.75988
+[ Valid | 212/300 ] loss = 0.81244, acc = 0.75484
+[ Valid | 213/300 ] loss = 0.78024, acc = 0.77018
+[ Valid | 214/300 ] loss = 0.76278, acc = 0.77764 -> best
+[ Valid | 215/300 ] loss = 0.74909, acc = 0.77255
+[ Valid | 216/300 ] loss = 0.77408, acc = 0.77709
+[ Valid | 217/300 ] loss = 0.74401, acc = 0.78065 -> best
+[ Valid | 218/300 ] loss = 0.74623, acc = 0.77799
+[ Valid | 219/300 ] loss = 0.74889, acc = 0.77923
+[ Valid | 220/300 ] loss = 0.74595, acc = 0.78073 -> best
+[ Valid | 221/300 ] loss = 1.14685, acc = 0.69865
+[ Valid | 222/300 ] loss = 0.87705, acc = 0.73011
+[ Valid | 223/300 ] loss = 1.23647, acc = 0.66100
+[ Valid | 224/300 ] loss = 0.88740, acc = 0.72953
+[ Valid | 225/300 ] loss = 1.92380, acc = 0.57239
+[ Valid | 226/300 ] loss = 0.87610, acc = 0.72845
+[ Valid | 227/300 ] loss = 0.84162, acc = 0.75281
+[ Valid | 228/300 ] loss = 0.79030, acc = 0.75149
+[ Valid | 229/300 ] loss = 0.82810, acc = 0.74820
+[ Valid | 230/300 ] loss = 0.79317, acc = 0.76390
+[ Valid | 231/300 ] loss = 0.80298, acc = 0.76444
+[ Valid | 232/300 ] loss = 0.78285, acc = 0.77195
+[ Valid | 233/300 ] loss = 0.77248, acc = 0.77134
+[ Valid | 234/300 ] loss = 0.77650, acc = 0.77771
+[ Valid | 235/300 ] loss = 0.76825, acc = 0.77734
+[ Valid | 236/300 ] loss = 0.76160, acc = 0.78185 -> best
+[ Valid | 237/300 ] loss = 0.74503, acc = 0.78135
+[ Valid | 238/300 ] loss = 0.75226, acc = 0.78828 -> best
+[ Valid | 239/300 ] loss = 0.74583, acc = 0.78429
+[ Valid | 240/300 ] loss = 0.74086, acc = 0.78667
+[ Valid | 241/300 ] loss = 1.13031, acc = 0.70761
+[ Valid | 242/300 ] loss = 1.07343, acc = 0.69710
+[ Valid | 243/300 ] loss = 0.98970, acc = 0.71683
+[ Valid | 244/300 ] loss = 0.95346, acc = 0.71688
+[ Valid | 245/300 ] loss = 0.90125, acc = 0.73764
+[ Valid | 246/300 ] loss = 0.88157, acc = 0.74127
+[ Valid | 247/300 ] loss = 0.95177, acc = 0.72930
+[ Valid | 248/300 ] loss = 0.81172, acc = 0.75815
+[ Valid | 249/300 ] loss = 0.87503, acc = 0.75420
+[ Valid | 250/300 ] loss = 0.86463, acc = 0.76270
+[ Valid | 251/300 ] loss = 0.86360, acc = 0.75697
+[ Valid | 252/300 ] loss = 0.80916, acc = 0.77319
+[ Valid | 253/300 ] loss = 0.76720, acc = 0.78154
+[ Valid | 254/300 ] loss = 0.77483, acc = 0.79332 -> best
+[ Valid | 255/300 ] loss = 0.80702, acc = 0.78465
+[ Valid | 256/300 ] loss = 0.78137, acc = 0.78521
+[ Valid | 257/300 ] loss = 0.78680, acc = 0.78614
+[ Valid | 258/300 ] loss = 0.77275, acc = 0.78756
+[ Valid | 259/300 ] loss = 0.77694, acc = 0.79252
+[ Valid | 260/300 ] loss = 0.76430, acc = 0.79181
+[ Valid | 261/300 ] loss = 1.33115, acc = 0.68402
+[ Valid | 262/300 ] loss = 1.01733, acc = 0.71237
+[ Valid | 263/300 ] loss = 1.27200, acc = 0.67157
+[ Valid | 264/300 ] loss = 1.59223, acc = 0.62212
+[ Valid | 265/300 ] loss = 0.93275, acc = 0.74160
+[ Valid | 266/300 ] loss = 0.90818, acc = 0.74005
+[ Valid | 267/300 ] loss = 0.96850, acc = 0.74306
+[ Valid | 268/300 ] loss = 1.02980, acc = 0.72379
+[ Valid | 269/300 ] loss = 0.91480, acc = 0.74553
+[ Valid | 270/300 ] loss = 0.96151, acc = 0.74876
+[ Valid | 271/300 ] loss = 0.86061, acc = 0.76628
+[ Valid | 272/300 ] loss = 0.93082, acc = 0.76524
+[ Valid | 273/300 ] loss = 0.82627, acc = 0.77078
+[ Valid | 274/300 ] loss = 0.80858, acc = 0.78097
+[ Valid | 275/300 ] loss = 0.81986, acc = 0.77582
