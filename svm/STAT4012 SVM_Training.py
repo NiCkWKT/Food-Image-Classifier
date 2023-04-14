@@ -5,10 +5,11 @@ print(" ")
 print(" ")
 
 import numpy as np
-import random, pickle
+import pickle
 from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV
 from sklearn.metrics import classification_report
+import multiprocessing as mp
 
 # Define directories for training, validation, and test sets
 Path = "/Users/kimponghung/Desktop/STAT4012 Project/" #To get the saved datas
@@ -30,12 +31,15 @@ param_grid = {
     'kernel': ['poly'],
     'degree': [4],
     'class_weight': ['balanced'],
-    'max_iter' : [10000]
+    'max_iter' : [-1]
 }
 print("Hyperparameter grid is found")
 
+# Create n_jobs parameter set
+num_cpu = mp.cpu_count()
+
 # Create a grid search object (Using 5-fold cross-validation)
-grid_search = GridSearchCV(SVC(), param_grid, cv=5)
+grid_search = GridSearchCV(SVC(), param_grid, cv=5, n_jobs=num_cpu)
 print("5-fold cross-validation is finished")
 
 # Fit the grid search object to the data
@@ -49,7 +53,7 @@ best_model = grid_search.best_estimator_
 
 # Save the best model to file
 print('Saving best model')
-with open('model5.sav', 'wb') as file:
+with open('model6.sav', 'wb') as file:
     pickle.dump(best_model, file)
 print('Saved best model')
 print('//////////////////////////////////////////////////')

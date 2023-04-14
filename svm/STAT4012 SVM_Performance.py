@@ -14,7 +14,7 @@ test_data = np.load(test + '_data.npy')
 test_labels = np.load(test + '_labels.npy')
 
 # Load the saved model
-with open('model4.sav', 'rb') as file:
+with open('model5.sav', 'rb') as file:
     best_model = pickle.load(file)
 
 # Make predictions with the best model on the validation set
