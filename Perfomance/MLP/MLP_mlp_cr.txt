@@ -1,0 +1,17 @@
+                 precision    recall  f1-score   support
+
+          Bread       0.25      0.32      0.28       368
+  Dairy product       0.18      0.25      0.21       148
+        Dessert       0.30      0.42      0.35       500
+            Egg       0.31      0.24      0.27       335
+     Fried food       0.34      0.23      0.28       287
+           Meat       0.45      0.51      0.48       432
+  Noodles-Pasta       0.22      0.20      0.21       147
+           Rice       0.19      0.03      0.05        96
+        Seafood       0.40      0.20      0.26       303
+           Soup       0.42      0.43      0.42       500
+Vegetable-Fruit       0.43      0.42      0.42       231
+
+       accuracy                           0.34      3347
+      macro avg       0.32      0.29      0.29      3347
+   weighted avg       0.34      0.34      0.33      3347
