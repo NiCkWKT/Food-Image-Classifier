@@ -1,6 +1,14 @@
 # STAT4012 Project: Food Image Classifier
-Dataset can be downloaded from [here](https://drive.google.com/file/d/1I5550D_q4kr0EX9Tak-zJM-Ki2FxD-Hj/view?usp=sharing)
+#### Dataset can be downloaded from [here](https://drive.google.com/file/d/1I5550D_q4kr0EX9Tak-zJM-Ki2FxD-Hj/view?usp=sharing)
 
+Group members:
+Hung Kim Pong 1155147934
+Wu Ka Tung 1155157687
+Poon Kwan Leong 1155144274
+Lau Kwun Hang 1155158471
+Wong Pak Hei 1155142582
+
+---
 Models:
 - MLP
 - CNN
