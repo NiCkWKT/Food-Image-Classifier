@@ -20,3 +20,5 @@ Models:
 For the performance of each model, please check out the Performance folder.
 
 For detailed comparison of CNN models, please visit [wandb](https://wandb.ai/nickwkt/Food-11?workspace=user-nickwkt) to get interactive visualization
+
+Demo images are taken by ourselves, the results shown in report are obtained using ResNet_v3 inside CNN folder
